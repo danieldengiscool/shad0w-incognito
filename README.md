@@ -1,5 +1,10 @@
-### Hi there 👋
+### hey
 
+If you found this account, it's because I wasn't secure enough.
+
+This is where I host GH pages that are uh well less than ideal to share.
+
+go away 💢
 <!--
 **shad0w-incognito/shad0w-incognito** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
